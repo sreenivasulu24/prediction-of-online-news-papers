@@ -110,6 +110,7 @@ considered parameters and improved results.
 ![WhatsApp Image 2024-03-16 at 14 14 08_ffd8e2d4](https://github.com/sreenivasulu24/prediction-of-online-news-papers/assets/146754674/8912440b-5e0a-4996-ac1f-009b801963de)
 
 ![WhatsApp Image 2024-03-16 at 14 10 57_e4374f6f](https://github.com/sreenivasulu24/prediction-of-online-news-papers/assets/146754674/2951e486-7ce4-4611-98b5-b297dfadab64)
+![WhatsApp Image 2024-03-16 at 14 27 32_085feb3f](https://github.com/sreenivasulu24/prediction-of-online-news-papers/assets/146754674/22806a42-cfa5-453d-8a15-13e709aac2d2)
 
 
 
