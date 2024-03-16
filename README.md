@@ -5,7 +5,7 @@
     <br>
 </h1>
 
-# [`Website link`](https://github.com/sreenivasulu24/prediction-of-online-news-papers/new/main?readme=1)  [`Demo video link `](https://drive.google.com/file/d/1imKmVRBXItNGZ3cfgpVrx2MZEqh6V2E_/view?usp=drivesdk) [`Other links `]() 
+# [`Website link`]()  [`Demo video link `](https://drive.google.com/file/d/1imKmVRBXItNGZ3cfgpVrx2MZEqh6V2E_/view?usp=drivesdk) [`Other links `]() 
 Various businesses are keen to know what will be the
 future demand of online visitors. Accordingly they are
 ready to take immediate decisions to implement their
