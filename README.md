@@ -102,8 +102,9 @@ considered parameters and improved results.
 - step 1 : INSTALL VISUAL STUDIO
 - step 2 : COLLECTION OF DATA
 - step 3 : IMPORT DATASETS
-- step 4 : EXECUTE DATASETS
-- step 5 : COMPARE OUTPUTS
+- step 4 : PREPROCESS THE DATA
+- step 5 : COMPARISION OF OUTPUT
+- step 6 : output
 - ###CODING OUTPUTS:
 
 ![WhatsApp Image 2024-03-16 at 14 05 49_c60b5698](https://github.com/sreenivasulu24/prediction-of-online-news-papers/assets/146754674/d036c96c-264a-4705-bacb-22a378099389)
